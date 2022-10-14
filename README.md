@@ -29,4 +29,5 @@ int main(){
 }
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emergenitro)]
+### Top languages used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emergenitro)
