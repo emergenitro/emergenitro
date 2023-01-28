@@ -9,8 +9,8 @@ class info {
     public:
         string myName = "Karthik Sankar",
                myLocation = "Singapore",
-               myWebsite = "workInProgress",
-               followMeAt = "@itsthekarthik",
+               myWebsite = "https://karthik.syntaxerrorfound.me/",
+               followMeOnInstagram = "@itsthekarthik",
                mainCodingLanguages = "C++ and Python";
         int myGrade = 10, numOfCodingLanguagesIKnow = 13;
         void details();
