@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&pause=1000&color=FFFFFF&width=435&lines=HELLOOO!+I'M+KARTHIK+SANKAR!+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&pause=1000&color=FFFFFF&width=435&lines=Helloooo!+I'm+Karthik+Sankar!+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 ```CPP
