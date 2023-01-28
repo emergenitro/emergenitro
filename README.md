@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&pause=1000&color=FFFFFF&width=435&lines=Helloooo!+I'm+Karthik+Sankar!+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B)](https://git.io/typing-svg)
 
-
 ```CPP
 #include <iostream>
 #include <string>
@@ -24,8 +23,8 @@ void info::details(){
 int main(){
     info KarthikSankar;
     KarthikSankar.details();
-    
-    return 0; 
+
+    return 0;
 }
 ```
 
@@ -49,4 +48,3 @@ int main(){
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
 </div>
-
